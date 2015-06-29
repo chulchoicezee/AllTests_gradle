@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="22.1.1"><source path="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\assets"/></dataSet><dataSet config="main"><source path="C:\Platform\android\work_studio\AllTests\app\src\main\assets"><file name="picture.jpg" path="C:\Platform\android\work_studio\AllTests\app\src\main\assets\picture.jpg"/></source></dataSet><dataSet config="debug"><source path="C:\Platform\android\work_studio\AllTests\app\src\debug\assets"/></dataSet></merger>

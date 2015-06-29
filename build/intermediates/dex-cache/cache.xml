@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-f1698e4764b1d61f5feba84d4de6c95191e6e3a4.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-669c74be14af4d4cecbba745f91449764848ee71.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-e61ce7e36b7397cb36edcc5873f27d9701cfca1d.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-17ed49b733e305661ffecf1ab8f52ed60c320f11.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-8dab003724518be0c198befc56b43607fca99324.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-8e7fbc0fa3b35dbd3453dccbda575352a28ea32d.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-907b3aaf0a76083693626aa3a628cdecfff08db5.jar" />
+    </item>
+    <item
+        jar="C:\Users\chulchoice\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-b22d7c638b005a481ecb089a65a4d529f3aa060f.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-e8dabf1fa346e4bd5e780b6c2b671afed9bbdf38.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-29410960ebd89346b255f65f320dbcf292e45174.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-4b4bed729cc2ad5e24d4ec63a17d57cb260c1e9a.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-3d768c2729258446623cfa808a1cf50bb4065352.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-9a11f961a4640320d94c415113b7b5b639868598.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-e41c1ff801767b31b10a1a24464640f832607c43.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-a24d596e2b23d70295531ba27ae4e3324a4d5f65.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-aa6fad9acf27ca56fc14a1a9aef5111032db4bd3.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-870bbe8b99e2cc89ac2b4381debca4e56cce3235.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-096a0595f92b598309d25a25ef3079082030d956.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-ff42390d0f821032b45a0f5607843f65366cede3.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-c2ec98280090a66d400d250fdef31e5c71fc64fa.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-71b6eec40d74d25edff79b7dbe174c2d41a09a1c.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\classes-dff62841d2eef32cb0bfac21107931aec744ff13.jar" />
+    </item>
+    <item
+        jar="C:\Platform\android\work_studio\AllTests\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Platform\android\work_studio\AllTests\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-cd5445351aacdd6b79d286b82f901cebab45dddd.jar" />
+    </item>
+
+</items>
