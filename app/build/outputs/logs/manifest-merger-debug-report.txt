@@ -566,3 +566,15 @@ action#android.intent.action.intenttest13
 ADDED from AndroidManifest.xml:211:17
 	android:name
 		ADDED from AndroidManifest.xml:211:25
+activity#com.android.tests.activities.O_HttpTestActivity
+ADDED from AndroidManifest.xml:215:9
+	android:label
+		ADDED from AndroidManifest.xml:217:13
+	android:name
+		ADDED from AndroidManifest.xml:216:13
+intent-filter#android.intent.action.intenttest14+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:218:13
+action#android.intent.action.intenttest14
+ADDED from AndroidManifest.xml:219:17
+	android:name
+		ADDED from AndroidManifest.xml:219:25

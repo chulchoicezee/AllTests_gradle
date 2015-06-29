@@ -1,9 +1,5 @@
 package com.android.tests;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,12 +11,16 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 public class MainActivity extends Activity {
 
 	private static final String TAG = "MainActivity";
 	String[] list = new String[]{"A. Intent Test", "B. Camera Test", "C. Provider Test", "D. SSO Test","E. Cursor Loader Test", 
 			"F. Misc..", "G. TabHost test", "H. language test", "I. fragment test", "J. sync service test", 
-			"K. list image loading", "L. get xml from network", "M. service bind", "N. AAB Fragment Test"};
+			"K. list image loading", "L. get xml from network", "M. service bind", "N. AAB Fragment Test", "O. http test"};
 	ListView mListView = null;
 	//private AdView adView;
 	
