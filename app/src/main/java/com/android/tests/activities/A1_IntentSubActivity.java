@@ -32,7 +32,7 @@ public class A1_IntentSubActivity extends Activity{
 			Log.v(TAG, "not null"+getIntent().toString());
 			Toast.makeText(this, "onCreate "+i.getStringExtra("box"), Toast.LENGTH_SHORT).show();
         }else
-			Log.v(TAG, "is a null");
+			Log.v(TAG, "is a null__");
 		}
 
 	@Override
