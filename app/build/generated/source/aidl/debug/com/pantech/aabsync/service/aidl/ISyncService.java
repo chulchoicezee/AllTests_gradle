@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Platform\\android\\work_studio\\AllTests\\app\\src\\main\\aidl\\com\\pantech\\aabsync\\service\\aidl\\ISyncService.aidl
+ * Original file: C:\\Dev\\Anroid\\work\\AllTests\\app\\src\\main\\aidl\\com\\pantech\\aabsync\\service\\aidl\\ISyncService.aidl
  */
 package com.pantech.aabsync.service.aidl;
 public interface ISyncService extends android.os.IInterface

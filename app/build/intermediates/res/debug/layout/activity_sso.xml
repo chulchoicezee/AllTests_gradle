@@ -61,4 +61,4 @@
         android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/textView1" />
 
-</RelativeLayout><!-- From: file:/C:/Platform/android/work_studio/AllTests/app/src/main/res/layout/activity_sso.xml -->
+</RelativeLayout><!-- From: file:/C:/Dev/Anroid/work/AllTests/app/src/main/res/layout/activity_sso.xml -->
