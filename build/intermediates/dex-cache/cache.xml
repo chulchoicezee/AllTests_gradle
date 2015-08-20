@@ -2,207 +2,67 @@
 <items version="2" >
 
     <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jar="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-c0ec0ccc65ec5ce418aa8781ca374959e1824938.jar" />
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d073a847fd45765e32321ff8247bbae2d652227f.jar" />
     </item>
     <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jar="C:\Documents and Settings\NetworkService\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-a30d6383de81d7eaa6c48c86ad7dcc253bc18ddd.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-af2f19049e6e8b4f683140e9318d9d374e3fcb61.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-f8f2c148d79e8c60ab09e1ecb86735de60f2717d.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-73172a966b6732d82d2edf5bf8a4a1ddf7ab3014.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-257aa46b4c40d8915fb6746d0142ae023228a39b.jar" />
-    </item>
-    <item
-        jar="C:\Users\chulchoice\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-ebf854ec3eac630659a85aa8a59a07f8bc61114f.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-33622557d3c17d2e85db834b36d3cec70eaf562d.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-676a34fc0495779a22117dde6a4074aad29e073e.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-5d0e19bbd454c48f6da82e71d604c82ea2216bc4.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-e5aa6208864257b5d0dfc945941f38ce873e359f.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-5d6611dd213baef5f94e63597c569b8a53a0d8e3.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-976fd9351a4aa25c5ef37833b2cde8f6760bcdf7.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-9c145ff489e5e02532fa6353ee5758eeae2214c3.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-2007ecee82f027e0b60af8667e4cda7bf4bd5cc7.jar" />
-    </item>
-    <item
-        jar="C:\Users\chulchoice\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-0643e05f66b2211c2aae75eace71ef7b86483c10.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-be31aba97432859163d7f495205625799ea6d967.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-e05c60444b15fa13ba59894494d6fcb9696ebcd8.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-2143dc0dd1baaf6ada0bd5e6ec38b227d11b3cdf.jar" />
-    </item>
-    <item
-        jar="C:\Users\chulchoice\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
+        revision="21.1.2"
         sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.20.0-ae7e639690303e194e28c92a353f496081efe78d.jar" />
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.20.0-e56105d0cf3eb056443c7dc5584f84da95b3167d.jar" />
     </item>
     <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jar="C:\Documents and Settings\NetworkService\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-4ba4940246bf25ca566602b624805c7442552542.jar" />
+        revision="21.1.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-fd41ce8975c98030195335373122f479e10c8b19.jar" />
     </item>
     <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jar="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-a9604bb0f7155f0278ac1a834b94a4012924f243.jar" />
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\classes-97f10ec4e1723deec62a57d855c27efbcbaede05.jar" />
     </item>
     <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jar="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-ddec96564af70e86cc405ae49d04791c63856df5.jar" />
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\classes-f58765ae2d1b527fdc4ee263edc5df5eb920f46c.jar" />
     </item>
     <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jar="C:\Documents and Settings\NetworkService\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-848aa50ff49da81f18ce9d693e0acec45f9cf470.jar" />
+        revision="21.1.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\okio-1.4.0-7630318c2dd01de774bbd5e98ea30104cd81d312.jar" />
     </item>
     <item
-        jar="C:\Users\chulchoice\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jar="C:\Documents and Settings\NetworkService\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-b22d7c638b005a481ecb089a65a4d529f3aa060f.jar" />
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-97d0d8cbc0339aefa08cff8d82f3a0ab32ef7773.jar" />
     </item>
     <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jar="D:\Platform\_sdk\android_studio\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-c42983e6e6e53343bc74b25ccf575f0e121d1a4f.jar" />
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ef0604aef69d237109eb4c10ce542cf3b9a69611.jar" />
     </item>
     <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jar="C:\Documents and Settings\NetworkService\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-8e40763f481578a844dac573e23708f7a7a07da0.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-a3c0d0dad66da9a2047bac293e10007de706e6cf.jar" />
-    </item>
-    <item
-        jar="C:\Dev\Anroid\work\AllTests\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\Dev\Anroid\work\AllTests\app\build\intermediates\pre-dexed\debug\classes-d449f73c4d1e54885378dad9c0aa8aba9b342d11.jar" />
+        revision="21.1.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="D:\Platform\_work_studio\AllTests_gradle\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-1fce971874ef8861dbb9541ca0b657ae0fbc680b.jar" />
     </item>
 
 </items>
